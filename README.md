@@ -1,2 +1,2 @@
 # public-scripts
-Public-facing repository
+Public-facing repository for server scripts
